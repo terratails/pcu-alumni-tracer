@@ -1,0 +1,873 @@
+[14-Jul-2025 02:39:09 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:39:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:39:16 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:39:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:41:06 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Collections/functions.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:41:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Collections/functions.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:41:07 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Collections/functions.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:41:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Collections/functions.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:41:08 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Collections/functions.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:41:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Collections/functions.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:41:09 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Collections/functions.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:41:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Collections/functions.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:41:09 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Collections/functions.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:41:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Collections/functions.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:41:09 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Collections/functions.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:41:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Collections/functions.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:41:09 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Collections/functions.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:41:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Collections/functions.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:41:09 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Collections/functions.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:41:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Collections/functions.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:41:10 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Collections/functions.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:41:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Collections/functions.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:19 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:20 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:21 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:22 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:22 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:23 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:23 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:23 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:24 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:24 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:24 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:24 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:24 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:25 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:25 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:25 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:25 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:25 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:28 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:30 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:30 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:31 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:31 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:31 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:32 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:32 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:44:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#3 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php on line 41
+[14-Jul-2025 02:46:18 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:46:18 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:46:18 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(41): require()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#4 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[14-Jul-2025 02:46:20 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:46:20 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:46:20 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(41): require()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#4 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[14-Jul-2025 02:46:21 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:46:21 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:46:21 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(41): require()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#4 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[14-Jul-2025 02:46:21 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:46:21 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:46:21 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(41): require()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#4 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[14-Jul-2025 02:46:21 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:46:21 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:46:21 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(41): require()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#4 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[14-Jul-2025 02:46:21 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:46:21 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:46:21 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(41): require()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#4 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[14-Jul-2025 02:46:21 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:46:21 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:46:21 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(41): require()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#4 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[14-Jul-2025 02:47:05 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:47:05 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:47:05 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(41): require()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#4 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[14-Jul-2025 02:47:06 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:47:06 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:47:06 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(41): require()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#4 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[14-Jul-2025 02:47:06 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:47:06 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:47:06 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(41): require()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#4 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[14-Jul-2025 02:47:07 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:47:07 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:47:07 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(41): require()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#4 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[14-Jul-2025 02:47:07 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:47:07 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:47:07 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(41): require()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#4 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[14-Jul-2025 02:47:07 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:47:07 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:47:07 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(41): require()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#4 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[14-Jul-2025 02:47:07 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:47:07 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:47:07 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(41): require()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#4 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[14-Jul-2025 02:47:07 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:47:07 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:47:07 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(41): require()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#4 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[14-Jul-2025 02:47:17 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:47:17 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:47:17 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(41): require()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#4 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[14-Jul-2025 02:50:20 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:50:20 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:50:20 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(41): require()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#4 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[14-Jul-2025 02:50:21 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:50:21 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:50:21 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(41): require()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#4 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[14-Jul-2025 02:50:21 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:50:21 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:50:21 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(41): require()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#4 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[14-Jul-2025 02:50:21 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:50:21 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:50:21 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(41): require()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#4 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[14-Jul-2025 02:50:22 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:50:22 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:50:22 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(41): require()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#4 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[14-Jul-2025 02:50:22 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:50:22 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:50:22 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(41): require()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#4 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[14-Jul-2025 02:50:22 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:50:22 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:50:22 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(41): require()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#4 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[14-Jul-2025 02:50:22 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:50:22 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:50:22 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(41): require()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#4 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[14-Jul-2025 02:50:22 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:50:22 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:50:22 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(41): require()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#4 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[14-Jul-2025 02:50:22 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:50:22 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:50:22 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(41): require()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#4 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[14-Jul-2025 02:50:22 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:50:22 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:50:22 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(41): require()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#4 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[14-Jul-2025 02:50:23 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:50:23 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:50:23 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(41): require()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#4 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[14-Jul-2025 02:50:23 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:50:23 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:50:23 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(41): require()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#4 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[14-Jul-2025 02:50:23 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:50:23 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:50:23 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(41): require()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#4 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[14-Jul-2025 02:50:23 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:50:23 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:50:23 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(41): require()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#4 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[14-Jul-2025 02:50:24 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:50:24 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:50:24 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(41): require()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/yhm5jv201rtg/public_html/alumni-manila/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(13): require('/home/yhm5jv201...')
+#4 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[14-Jul-2025 02:51:24 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:51:24 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:51:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php:166
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/bootstrap/app.php(8): Illuminate\Foundation\Configuration\ApplicationBuilder->withRouting()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(16): require_once('/home/yhm5jv201...')
+#2 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php on line 166
+[14-Jul-2025 02:51:24 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:51:24 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:51:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php:166
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/bootstrap/app.php(8): Illuminate\Foundation\Configuration\ApplicationBuilder->withRouting()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(16): require_once('/home/yhm5jv201...')
+#2 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php on line 166
+[14-Jul-2025 02:51:25 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:51:25 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:51:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php:166
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/bootstrap/app.php(8): Illuminate\Foundation\Configuration\ApplicationBuilder->withRouting()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(16): require_once('/home/yhm5jv201...')
+#2 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php on line 166
+[14-Jul-2025 02:51:25 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:51:25 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:51:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php:166
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/bootstrap/app.php(8): Illuminate\Foundation\Configuration\ApplicationBuilder->withRouting()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(16): require_once('/home/yhm5jv201...')
+#2 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php on line 166
+[14-Jul-2025 02:51:25 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:51:25 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:51:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php:166
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/bootstrap/app.php(8): Illuminate\Foundation\Configuration\ApplicationBuilder->withRouting()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(16): require_once('/home/yhm5jv201...')
+#2 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php on line 166
+[14-Jul-2025 02:51:25 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:51:25 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:51:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php:166
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/bootstrap/app.php(8): Illuminate\Foundation\Configuration\ApplicationBuilder->withRouting()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(16): require_once('/home/yhm5jv201...')
+#2 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php on line 166
+[14-Jul-2025 02:51:25 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:51:25 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:51:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php:166
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/bootstrap/app.php(8): Illuminate\Foundation\Configuration\ApplicationBuilder->withRouting()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(16): require_once('/home/yhm5jv201...')
+#2 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php on line 166
+[14-Jul-2025 02:51:25 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:51:25 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:51:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php:166
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/bootstrap/app.php(8): Illuminate\Foundation\Configuration\ApplicationBuilder->withRouting()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(16): require_once('/home/yhm5jv201...')
+#2 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php on line 166
+[14-Jul-2025 02:51:26 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:51:26 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:51:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php:166
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/bootstrap/app.php(8): Illuminate\Foundation\Configuration\ApplicationBuilder->withRouting()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(16): require_once('/home/yhm5jv201...')
+#2 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php on line 166
+[14-Jul-2025 02:51:26 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:51:26 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:51:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php:166
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/bootstrap/app.php(8): Illuminate\Foundation\Configuration\ApplicationBuilder->withRouting()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(16): require_once('/home/yhm5jv201...')
+#2 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php on line 166
+[14-Jul-2025 02:51:26 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:51:26 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:51:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php:166
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/bootstrap/app.php(8): Illuminate\Foundation\Configuration\ApplicationBuilder->withRouting()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(16): require_once('/home/yhm5jv201...')
+#2 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php on line 166
+[14-Jul-2025 02:51:26 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:51:26 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:51:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php:166
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/bootstrap/app.php(8): Illuminate\Foundation\Configuration\ApplicationBuilder->withRouting()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(16): require_once('/home/yhm5jv201...')
+#2 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php on line 166
+[14-Jul-2025 02:51:26 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:51:26 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:51:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php:166
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/bootstrap/app.php(8): Illuminate\Foundation\Configuration\ApplicationBuilder->withRouting()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(16): require_once('/home/yhm5jv201...')
+#2 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php on line 166
+[14-Jul-2025 02:51:26 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:51:26 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:51:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php:166
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/bootstrap/app.php(8): Illuminate\Foundation\Configuration\ApplicationBuilder->withRouting()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(16): require_once('/home/yhm5jv201...')
+#2 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php on line 166
+[14-Jul-2025 02:51:56 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:51:56 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:51:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php:166
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/bootstrap/app.php(8): Illuminate\Foundation\Configuration\ApplicationBuilder->withRouting()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(16): require_once('/home/yhm5jv201...')
+#2 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php on line 166
+[14-Jul-2025 02:52:17 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:52:17 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:52:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php:166
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/bootstrap/app.php(8): Illuminate\Foundation\Configuration\ApplicationBuilder->withRouting()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(16): require_once('/home/yhm5jv201...')
+#2 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php on line 166
+[14-Jul-2025 02:52:18 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:52:18 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:52:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php:166
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/bootstrap/app.php(8): Illuminate\Foundation\Configuration\ApplicationBuilder->withRouting()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(16): require_once('/home/yhm5jv201...')
+#2 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php on line 166
+[14-Jul-2025 02:52:18 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:52:18 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:52:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php:166
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/bootstrap/app.php(8): Illuminate\Foundation\Configuration\ApplicationBuilder->withRouting()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(16): require_once('/home/yhm5jv201...')
+#2 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php on line 166
+[14-Jul-2025 02:52:18 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:52:18 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:52:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php:166
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/bootstrap/app.php(8): Illuminate\Foundation\Configuration\ApplicationBuilder->withRouting()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(16): require_once('/home/yhm5jv201...')
+#2 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php on line 166
+[14-Jul-2025 02:52:18 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:52:18 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:52:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php:166
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/bootstrap/app.php(8): Illuminate\Foundation\Configuration\ApplicationBuilder->withRouting()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(16): require_once('/home/yhm5jv201...')
+#2 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php on line 166
+[14-Jul-2025 02:52:18 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:52:18 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:52:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php:166
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/bootstrap/app.php(8): Illuminate\Foundation\Configuration\ApplicationBuilder->withRouting()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(16): require_once('/home/yhm5jv201...')
+#2 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php on line 166
+[14-Jul-2025 02:52:19 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:52:19 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:52:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php:166
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/bootstrap/app.php(8): Illuminate\Foundation\Configuration\ApplicationBuilder->withRouting()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(16): require_once('/home/yhm5jv201...')
+#2 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php on line 166
+[14-Jul-2025 02:52:19 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:52:19 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:52:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php:166
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/bootstrap/app.php(8): Illuminate\Foundation\Configuration\ApplicationBuilder->withRouting()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(16): require_once('/home/yhm5jv201...')
+#2 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php on line 166
+[14-Jul-2025 02:52:19 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:52:19 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:52:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php:166
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/bootstrap/app.php(8): Illuminate\Foundation\Configuration\ApplicationBuilder->withRouting()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(16): require_once('/home/yhm5jv201...')
+#2 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php on line 166
+[14-Jul-2025 02:52:19 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:52:19 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:52:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php:166
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/bootstrap/app.php(8): Illuminate\Foundation\Configuration\ApplicationBuilder->withRouting()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(16): require_once('/home/yhm5jv201...')
+#2 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php on line 166
+[14-Jul-2025 02:52:19 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:52:19 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:52:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php:166
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/bootstrap/app.php(8): Illuminate\Foundation\Configuration\ApplicationBuilder->withRouting()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(16): require_once('/home/yhm5jv201...')
+#2 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php on line 166
+[14-Jul-2025 02:52:20 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:52:20 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:52:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php:166
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/bootstrap/app.php(8): Illuminate\Foundation\Configuration\ApplicationBuilder->withRouting()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(16): require_once('/home/yhm5jv201...')
+#2 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php on line 166
+[14-Jul-2025 02:52:20 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:52:20 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:52:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php:166
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/bootstrap/app.php(8): Illuminate\Foundation\Configuration\ApplicationBuilder->withRouting()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(16): require_once('/home/yhm5jv201...')
+#2 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php on line 166
+[14-Jul-2025 02:52:20 UTC] PHP Warning:  include(/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:52:20 UTC] PHP Warning:  include(): Failed opening '/home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/composer/ClassLoader.php on line 576
+[14-Jul-2025 02:52:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php:166
+Stack trace:
+#0 /home/yhm5jv201rtg/public_html/alumni-manila/bootstrap/app.php(8): Illuminate\Foundation\Configuration\ApplicationBuilder->withRouting()
+#1 /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php(16): require_once('/home/yhm5jv201...')
+#2 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php on line 166
+[14-Jul-2025 03:34:46 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/public/../alumni-manila/vendor/autoload.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php on line 13
+[14-Jul-2025 03:34:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/public/../alumni-manila/vendor/autoload.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php on line 13
+[14-Jul-2025 03:34:48 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/public/../alumni-manila/vendor/autoload.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php on line 13
+[14-Jul-2025 03:34:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/public/../alumni-manila/vendor/autoload.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php on line 13
+[14-Jul-2025 03:34:50 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/public/../alumni-manila/vendor/autoload.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php on line 13
+[14-Jul-2025 03:34:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/public/../alumni-manila/vendor/autoload.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php on line 13
+[14-Jul-2025 03:34:50 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/public/../alumni-manila/vendor/autoload.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php on line 13
+[14-Jul-2025 03:34:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/public/../alumni-manila/vendor/autoload.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php on line 13
+[14-Jul-2025 03:34:51 UTC] PHP Warning:  require(/home/yhm5jv201rtg/public_html/alumni-manila/public/../alumni-manila/vendor/autoload.php): Failed to open stream: No such file or directory in /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php on line 13
+[14-Jul-2025 03:34:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yhm5jv201rtg/public_html/alumni-manila/public/../alumni-manila/vendor/autoload.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/yhm5jv201rtg/public_html/alumni-manila/public/index.php on line 13

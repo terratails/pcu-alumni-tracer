@@ -1,0 +1,3 @@
+[15-Jul-2025 00:47:54 UTC] PHP Fatal error:  Cannot declare class App\Providers\RouteServiceProvider, because the name is already in use in /home/yhm5jv201rtg/public_html/alumni-manila/app/Providers/AppServiceProvider.php on line 9
+[15-Jul-2025 00:48:20 UTC] PHP Fatal error:  Cannot declare class App\Providers\RouteServiceProvider, because the name is already in use in /home/yhm5jv201rtg/public_html/alumni-manila/app/Providers/AppServiceProvider.php on line 9
+[15-Jul-2025 00:50:17 UTC] PHP Fatal error:  Cannot declare class App\Providers\RouteServiceProvider, because the name is already in use in /home/yhm5jv201rtg/public_html/alumni-manila/app/Providers/AppServiceProvider.php on line 9
