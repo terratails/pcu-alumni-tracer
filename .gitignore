@@ -1,25 +1,67 @@
-/.phpunit.cache
-/node_modules
-/public/build
-/public/hot
-/public/storage
-/storage/*.key
-/storage/pail
+# ====================================
+# Laravel: Core Ignored Files & Folders
+# ====================================
+
 /vendor
 /node_modules
+
+/public/storage
 /storage
+/storage/*.key
+/storage/*.log
+/storage/pail
+
 /.env
+/.env.*
 /.env.backup
-/.env.production
-/.phpactor.json
+/.phpunit.cache
 /.phpunit.result.cache
-/Homestead.json
-/Homestead.yaml
+
+# ====================================
+# Laravel: Keep Specific Public Files
+# ====================================
+
+!public/tracers.csv
+!public/uploads/
+!public/uploads/**
+
+# ====================================
+# IDEs & Dev Tools
+# ====================================
+
+/.idea
+/.vscode
+/.fleet
+/.nova
+/.zed
+/.phpactor.json
+
+# ====================================
+# Composer & Node Debug Files
+# ====================================
+
+/composer.lock
 /npm-debug.log
 /yarn-error.log
-/auth.json
-/.fleet
-/.idea
-/.nova
-/.vscode
-/.zed
+
+# ====================================
+# Homestead & Other Environment Files
+# ====================================
+
+Homestead.yaml
+Homestead.json
+auth.json
+
+# ====================================
+# Optional: Logs & Cache Files
+# ====================================
+
+/*.log
+*.log
+
+# ====================================
+# Misc
+# ====================================
+
+/public/hot
+/public/build
